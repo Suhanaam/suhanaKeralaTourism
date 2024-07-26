@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(243, 246, 248);
+  padding: 0;
+  margin: 0;
+}
+.second
+{
+    background-image: url('images/first1.jpg');
+            height: 45rem;
+            width: auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            
+            background-size: cover;
+}
+.about
+      {
+        /*kerala informations*/
+        color:#006400;
+        background-color:#F0E68C;
+      }
+
+.font-arial
+ {
+        font-family: 'Arial', sans-serif;
+        font-weight: bold;
+        color: whitesmoke;
+}
+.font-courier {
+
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        color:blueviolet
+
+    }
+
+    #about img {
+      border-radius: 8px;
+  }
+  footer {
+    background: #343a40;
+    color: white;
+}
+#about img {
+  border-radius: 8px;
+}
+
+.ab{
+  height: 25rem;
+            width: auto;
+
+
+}
+.gallery{
+  margin: 5px;
+  border: 1px solid brown;
+  float: left;
+  width: 180px;
+}
+
+div.gallery img
+{
+  width: 100%;
+  
+  }
